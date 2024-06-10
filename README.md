@@ -9,12 +9,11 @@ This project is a real-time chat application built using FastAPI, WebSockets, an
 - Real-time communication using WebSockets
 - Dockerized for easy deployment and scalability
 - Simple and intuitive interface
-- Supports multiple concurrent connections
-- Lightweight and efficient
+- Supports multiple concurrent connection
 
-**Requirements:**
+**Technologies Used:**
 
-- Python 3.7+
-- FastAPI
-- Uvicorn
-- Docker
+1. **Python**: The core programming language used for building the application.
+2. **FastAPI**: A modern, fast (high-performance), web framework for building APIs.
+3. **WebSockets**: A protocol used for real-time communication between the client and the server
+5. **Docker**: A platform used to develop, ship, and run applications inside containers, ensuring consistency across different environments.
